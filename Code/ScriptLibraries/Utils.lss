@@ -5,6 +5,7 @@ Option Declare
 
 '++LotusScript Development Environment:2:5:(Forward):0:1
 Declare Sub Terminate
+Declare Public Function testA
 
 '++LotusScript Development Environment:2:5:(Declarations):0:2
 
@@ -16,5 +17,5 @@ End Sub
 
 '++LotusScript Development Environment:2:1:testA:1:8
 Public Function testA
-	MsgBox 123
+	MsgBox 1234
 End Function

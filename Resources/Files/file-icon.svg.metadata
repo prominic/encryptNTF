@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><note xmlns="http://www.lotus.com/dxl" class="form" replicaid="C12584E3004E8F4F" version="11.0">
+<noteinfo noteid="442" sequence="3" unid="9EDAF099A8629D9BC12584E4003E7830">
+<created><datetime>20200103T122220,00+01</datetime></created>
+<modified><datetime>20200103T122231,25+01</datetime></modified>
+<revised><datetime>20200103T122231,24+01</datetime></revised>
+<lastaccessed><datetime>20200103T122231,25+01</datetime></lastaccessed>
+<addedtofile><datetime>20200103T122220,02+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
+<wassignedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></wassignedby>
+<item name="$Flags"><text>345CgQ</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+
+<item name="$FileModDT" sign="true"><datetime>20200103T122212,10+01</datetime></item>
+
+<item name="$FileNames" sign="true"><text>1575767.svg</text></item>
+<item name="$TITLE" sign="true"><text>file-icon.svg</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item></note>

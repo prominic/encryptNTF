@@ -38,7 +38,7 @@ Sub EncryptUtils(wOption As integer, encrypt As integer)
 	Dim sDb As String
 	Dim retStats As Long
 	
-	vPath = ws.Prompt(13, "Encrypt Utils", "Choose...", "", "")
+	vPath = ws.Prompt(13, "Encrypt Database", "Choose...", "", "")
 	If Not IsArray(vPath) Then Exit Sub
 	sDb = vPath(0) & "!!" & vPath(1)
 	

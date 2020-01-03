@@ -1,0 +1,74 @@
+'++LotusScript Development Environment:2:5:(Options):0:74
+Option Public
+Option Declare
+
+
+'++LotusScript Development Environment:2:5:(Forward):0:1
+Declare Sub EncryptUtils(wOption As integer, encrypt As integer)
+Declare Function GetError(errnum As Integer) As String
+
+'++LotusScript Development Environment:2:5:(Declarations):0:10
+Public Const W32_LIB = {nnotes.dll}
+Declare Function W32_NSFDbCompactExtended Lib W32_LIB Alias {NSFDbCompactExtended}  (ByVal Pathname As String, Options As Long, retStats As Long) As Integer
+Declare Function W32_NSFDbLocalSecInfoSet Lib W32_LIB Alias {NSFDbLocalSecInfoSet} (ByVal hDb As Long, ByVal wOptions As Integer, ByVal EncryptStrength As Integer, ByVal Username As String) As Integer
+Declare Sub W32_OSLoadString Lib W32_LIB Alias {OSLoadString} (ByVal null1 As Long, ByVal sError As Integer, ByVal errstr As String, ByVal lenstr As Integer)
+Declare Function W32_NSFDbOpen Lib W32_LIB Alias {NSFDbOpen}(ByVal dbName As String, hDb As Long) As Integer
+Declare Function W32_NSFDbClose Lib W32_LIB Alias {NSFDbClose} (ByVal hDb As Long) As Integer
+
+Const ENCRYPT_OPTION_NEWDB = 1
+Const ENCRYPT_OPTION_REMOVE = 2
+Const ENCRYPT_OPTION_MODIFY = 3
+
+Const ENCRYPT_STRENGTH_NONE = 0
+Const ENCRYPT_STRENGTH_SIMPLE = 1
+Const ENCRYPT_STRENGTH_MEDIUM = 2
+Const ENCRYPT_STRENGTH_STRONG = 3
+
+
+'++LotusScript Development Environment:2:2:EncryptUtils:1:8
+Sub EncryptUtils(wOption As integer, encrypt As integer)
+	On Error GoTo errh
+	
+	Dim ws As New NotesUIWorkspace
+	Dim s As New NotesSession
+	Dim db As NotesDatabase
+	Dim vPath As Variant
+	Dim hDb As Long
+	Dim rc As Integer
+	Dim sDb As String
+	Dim retStats As Long
+	
+	vPath = ws.Prompt(13, "Encrypt Utils", "Choose...", "", "")
+	If Not IsArray(vPath) Then Exit Sub
+	sDb = vPath(0) & "!!" & vPath(1)
+	
+	rc = W32_NSFDbOpen(sDb, hDb)
+
+	If rc <> 0 Then Exit Sub
+	
+	rc = W32_NSFDbLocalSecInfoSet(hDb, wOption, encrypt, "")
+	Print GetError(rc)
+
+	If rc = 0 Then
+		rc = W32_NSFDbCompactExtended(sDb, 0, retStats)
+	End If
+
+	rc = W32_NSFDbClose(hDb)
+	
+basta:
+	Exit sub
+errh:
+	MsgBox Error$
+	Resume basta
+End Sub
+
+'++LotusScript Development Environment:2:1:GetError:1:8
+Function GetError(errnum As Integer) As String
+	Dim s As String*256
+	If IsDefined("WINDOWS") Then
+		W32_OSLoadString 0, errnum And &h03FFFFFFF, s, 256
+	Else
+		'TUX_OSLoadString 0, errnum And &h03FFFFFFF, s, 256
+	End If
+	getError = StrLeft(s, Chr(0))
+End Function

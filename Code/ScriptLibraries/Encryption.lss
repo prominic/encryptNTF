@@ -55,6 +55,8 @@ Sub EncryptUtils(wOption As integer, encrypt As integer)
 
 	rc = W32_NSFDbClose(hDb)
 	
+	MsgBox "Completed", 64, "Encryption"
+	
 basta:
 	Exit sub
 errh:

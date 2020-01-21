@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='11.0' replicaid='C12584E3004E8F4F'>
-<noteinfo noteid='306' unid='B2E3504D15A4FBA2C12584E300723F6D' sequence='12'>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='11.0' replicaid='002584EE004A2BD6'>
+<noteinfo noteid='2a2' unid='B2E3504D15A4FBA2C12584E300723F6D' sequence='18'>
 <created><datetime>20200102T214753,41+01</datetime></created>
-<modified><datetime>20200102T220016,20+01</datetime></modified>
-<revised><datetime>20200102T220016,19+01</datetime></revised>
-<lastaccessed><datetime>20200102T220016,20+01</datetime></lastaccessed>
-<addedtofile><datetime>20200102T214753,42+01</datetime></addedtofile></noteinfo>
+<modified><datetime>20200113T133022,89+00</datetime></modified>
+<revised><datetime>20200106T140533,40+01</datetime></revised>
+<lastaccessed><datetime>20200113T133022,88+00</datetime></lastaccessed>
+<addedtofile><datetime>20200113T133022,88+00</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
 <wassignedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></wassignedby>
 <item name='$AssistType' sign='true'><number>65413</number></item>
@@ -30,7 +30,7 @@ gQYAAAAA
 <item name='$Flags'><text>fL3</text></item>
 <item name='$AssistRunInfo' summary='true'>
 <rawitemdata type='3'>
-BgABAAAACAAyAwAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAGwEAAAAAAAAAAAAAAAAAABAAAAAA
+BgAAAgAACACeAgAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAGwEAAAAAAAAAAAAAAAAAABAAAAAA
 AAAA+Vw4AOSEJcEAAAAAlGFzAOOEJcFPj04A44QlwQAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
 ZCBydW5uaW5nIGFnZW50ICcoZW5jcnlwdC5yZW1vdmUpfGVuY3J5cHQucmVtb3ZlJyBvbiAwMS8w
 My8yMDIwIDExOjE1OjMzIEFNDQpSdW5uaW5nIG9uIGFsbCBkb2N1bWVudHMgaW4gZGF0YWJhc2U6

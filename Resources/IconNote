@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='11.0'
- replicaid='C12584E3004E8F4F'>
-<noteinfo noteid='11a' unid='728510A6A999D93BC12584D8003F8D5D' sequence='34'>
+ replicaid='002584EE004A2BD6'>
+<noteinfo noteid='11e' unid='728510A6A999D93BC12584D8003F8D5D' sequence='36'>
 <created><datetime>20191222T123409,57+01</datetime></created>
-<modified><datetime>20200106T135533,71+01</datetime></modified>
-<revised><datetime>20200106T135533,70+01</datetime></revised>
-<lastaccessed><datetime>20200106T135533,71+01</datetime></lastaccessed>
-<addedtofile><datetime>20200102T151804,99+01</datetime></addedtofile></noteinfo>
+<modified><datetime>20200113T133038,22+00</datetime></modified>
+<revised><datetime>20200113T133038,20+00</datetime></revised>
+<lastaccessed><datetime>20200113T133038,20+00</datetime></lastaccessed>
+<addedtofile><datetime>20200113T133011,10+00</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
 <item name='$LargeSummary'><text>0</text></item>
 <item name='IconBitmap' summary='true'>
@@ -24,9 +24,8 @@ APAAAODwAAAOAAAAAOAAAA4AAA4A4AAADwDwAAAP4A/gAAAAAAAAAAAA4AAAD+AP4AAAAAAAAAAA
 AP4AAAAA7wAAAAAAAAAAAAAAD+7u8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAA==
 </rawitemdata></item>
-<item name='$Daos'><text>0</text></item>
 <item name='$Flags'><text>J7</text></item>
 <item name='$FlagsNoRefresh'><text>rv</text></item>
-<item name='$TITLE'><text>Encrypt
-</text></item></note>
+<item name='$Daos'><text>0</text></item>
+<item name='$TITLE'><text>Encrypt</text></item></note>
 

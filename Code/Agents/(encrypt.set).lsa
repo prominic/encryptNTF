@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='11.0' replicaid='C12584E3004E8F4F'>
-<noteinfo noteid='30e' unid='75522D24145D7102C12584E300723F6E' sequence='16'>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='11.0' replicaid='002584EE004A2BD6'>
+<noteinfo noteid='2aa' unid='75522D24145D7102C12584E300723F6E' sequence='22'>
 <created><datetime>20200102T214753,42+01</datetime></created>
-<modified><datetime>20200103T111328,58+01</datetime></modified>
-<revised><datetime>20200103T111328,57+01</datetime></revised>
-<lastaccessed><datetime>20200103T111328,58+01</datetime></lastaccessed>
-<addedtofile><datetime>20200102T214753,44+01</datetime></addedtofile></noteinfo>
+<modified><datetime>20200113T133023,24+00</datetime></modified>
+<revised><datetime>20200106T140533,44+01</datetime></revised>
+<lastaccessed><datetime>20200113T133023,23+00</datetime></lastaccessed>
+<addedtofile><datetime>20200113T133023,23+00</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
 <wassignedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></wassignedby>
 <item name='$TITLE' sign='true'><text>(encrypt.set)|encrypt.set</text></item>
@@ -32,13 +32,13 @@ gQYAAAAA
 <item name='$DesignerVersion'><text>8.5.3</text></item>
 <item name='$AssistRunInfo' summary='true'>
 <rawitemdata type='3'>
-BgABAAAACABuAwAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAADwEAAAAAAAAAAAAAAAAAABAAAAAA
-AAAAbWA4AOSEJcEAAAAAWio4AOSEJcFPj04A44QlwQAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
-ZCBydW5uaW5nIGFnZW50ICcoZW5jcnlwdC5zZXQpfGVuY3J5cHQuc2V0JyBvbiAwMS8wMy8yMDIw
-IDExOjE1OjM5IEFNDQpSdW5uaW5nIG9uIGFsbCBkb2N1bWVudHMgaW4gZGF0YWJhc2U6IDAgdG90
+BgAAAgAACACmAgAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAADwEAAAAAAAAAAAAAAAAAABAAAAAA
+AAAAJKNKAO6EJcEAAAAAdDFKAO6EJQDWK0oA7oQlAAAAAAAAAAAAAAAAAAAAAAAAAAAAU3RhcnRl
+ZCBydW5uaW5nIGFnZW50ICcoZW5jcnlwdC5zZXQpfGVuY3J5cHQuc2V0JyBvbiAwMS8xMy8yMDIw
+IDAyOjM0OjUxIFBNDQpSdW5uaW5nIG9uIGFsbCBkb2N1bWVudHMgaW4gZGF0YWJhc2U6IDAgdG90
 YWwNCkZvdW5kIDAgZG9jdW1lbnQocykgdGhhdCBtYXRjaCBzZWFyY2ggY3JpdGVyaWENClJhbiBM
 b3R1c1NjcmlwdCBjb2RlDQpEb25lIHJ1bm5pbmcgYWdlbnQgJyhlbmNyeXB0LnNldCl8ZW5jcnlw
-dC5zZXQnIG9uIDAxLzAzLzIwMjAgMTE6MTU6NDcgQU0NCgANChESE//MCxM24i44AOSEJcGqqqqq
+dC5zZXQnIG9uIDAxLzEzLzIwMjAgMDI6MzU6MTQgUE0NCgANChESE//MCxM24i44AOSEJcGqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq

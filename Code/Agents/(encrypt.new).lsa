@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<note class='filter' xmlns='http://www.lotus.com/dxl' version='11.0' replicaid='C12584E3004E8F4F'>
-<noteinfo noteid='34e' unid='02399AA3C0E05DDFC12584E30073960B' sequence='19'>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='11.0' replicaid='002584EE004A2BD6'>
+<noteinfo noteid='2b6' unid='02399AA3C0E05DDFC12584E30073960B' sequence='23'>
 <created><datetime>20200102T220230,51+01</datetime></created>
-<modified><datetime>20200106T140637,76+01</datetime></modified>
-<revised><datetime>20200106T140637,75+01</datetime></revised>
-<lastaccessed><datetime>20200106T140637,76+01</datetime></lastaccessed>
-<addedtofile><datetime>20200102T220230,51+01</datetime></addedtofile></noteinfo>
+<modified><datetime>20200113T133023,72+00</datetime></modified>
+<revised><datetime>20200109T103518,66+01</datetime></revised>
+<lastaccessed><datetime>20200113T133023,71+00</datetime></lastaccessed>
+<addedtofile><datetime>20200113T133023,71+00</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
 <wassignedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></wassignedby>
 <item name='$TITLE' sign='true'><text>(encrypt.new)|encrypt.new</text></item>
@@ -32,7 +32,7 @@ gQYAAAAA
 <item name='$DesignerVersion'><text>8.5.3</text></item>
 <item name='$AssistRunInfo' summary='true'>
 <rawitemdata type='3'>
-BgABAAAACABiBQAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BgAAAgAACACyAgAAAAAAAAUAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAngRIAOeEJcFPj04A44QlwQAAAAAAAAAAAAAAAAAAAAAAAAAAqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq

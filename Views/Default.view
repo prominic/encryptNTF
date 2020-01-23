@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='view' xmlns='http://www.lotus.com/dxl' version='11.0'
- replicaid='002584EE004A2BD6'>
-<noteinfo noteid='19e' unid='1413A52306CBEB9AC12584D8003F8D58' sequence='26'>
+ replicaid='C12584F80030E56F'>
+<noteinfo noteid='19e' unid='1413A52306CBEB9AC12584D8003F8D58' sequence='29'>
 <created><datetime>20191222T123409,52+01</datetime></created>
-<modified><datetime>20200113T133015,13+00</datetime></modified>
-<revised><datetime>20200106T140533,70+01</datetime></revised>
-<lastaccessed><datetime>20200113T133259,71+00</datetime></lastaccessed>
-<addedtofile><datetime>20200113T133015,12+00</datetime></addedtofile></noteinfo>
-<updatedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
+<modified><datetime>20200123T095649,42+01</datetime></modified>
+<revised><datetime>20200123T095649,41+01</datetime></revised>
+<lastaccessed><datetime>20200123T095649,41+01</datetime></lastaccessed>
+<addedtofile><datetime>20200123T095409,30+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Dmytro Pastovenskyi/O=DmytroDev</name><name>CN=Dmytro Pastovenskyi/O=explicants</name></updatedby>
 <wassignedby><name>CN=Dmytro Pastovenskyi/O=explicants</name></wassignedby>
 <item name='$FormulaClass' sign='true'><text>1</text></item>
 <item name='$TITLE' sign='true'><text>Default</text></item>
@@ -34,10 +34,10 @@ AAAAAAAAAAAAAAEA////AAEA////AAAAAQAAAAAAAQAAAAAAAQAAAAAAAAAIAAAAAAABAA==
 vRw/AAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABAPDw8AABAAAAAAAJAAAAAAABAPDw8AAA
 AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAC+/1IAAAABAAoAngEAAA4AAAAAAAAAU2V0IEVuY3J5cHRp
-b24uAAAAIgACABMnAAAAAAAAAQALAGVuY3J5cHQuc2V0AO0CAwAHAAoAAwAJNFMAvv9YAAAAAQB0
-AJ4BAAARAAAAAAAAAFJlbW92ZSBFbmNyeXB0aW9uADAAAAAkAAIAEycAAAAAAAABAA4AZW5jcnlw
-dC5yZW1vdmXtAgMABwAKAAMACTRTAL7/VgAAAAEAGACeAQAAEQAAAAAAAABOZXcgRGIgRW5jcnlw
-dGlvbgAuAAAAIgACABMnAAAAAAAAAQALAGVuY3J5cHQubmV3AO0CAwAHAAoAAwAJNFMA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAC+/1IAAAABABcAngEAAA4AAAAAAAAAR2V0IEVuY3J5cHRp
+b24uAAAAIgACABMnAAAAAAAAAQALAGVuY3J5cHQuZ2V0AO0CAwAHAAoAAwAJNFMAvv9SAAAAAQAK
+AJ4BAAAOAAAAAAAAAFNldCBFbmNyeXB0aW9uLgAAACIAAgATJwAAAAAAAAEACwBlbmNyeXB0LnNl
+dADtAgMABwAKAAMACTRTAL7/WAAAAAEAdACeAQAAEQAAAAAAAABSZW1vdmUgRW5jcnlwdGlvbsAw
+AAAAJAACABMnAAAAAAAAAQAOAGVuY3J5cHQucmVtb3Zl7QIDAAcACgADAAk0UwA=
 </rawitemdata></item></note>
 
